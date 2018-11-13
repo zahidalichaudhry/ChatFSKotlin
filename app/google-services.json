@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "901288767688",
+    "firebase_url": "https://firemessage-777ab.firebaseio.com",
+    "project_id": "firemessage-777ab",
+    "storage_bucket": "firemessage-777ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901288767688:android:d88af66dd9ed31dd",
+        "android_client_info": {
+          "package_name": "com.itpvt.chatfskotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901288767688-ahl1g4dg9m80ps5rugnptn51uka9vdns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRflNhcQleAtcE_TVvg2Kf62Z-J1rp6iw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

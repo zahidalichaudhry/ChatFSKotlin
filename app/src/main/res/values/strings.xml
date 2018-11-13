@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatFSKotlin</string>
+    <string name="title_home">People</string>
+    <string name="title_dashboard">My Account</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="lorem_ipsum">alkfjasldkfjaslkdjalksdfj</string>
+</resources>
